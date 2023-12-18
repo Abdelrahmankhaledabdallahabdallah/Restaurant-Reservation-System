@@ -8,6 +8,21 @@ different types: Cooks, Waiters and Managers. First, Cooks are able to see the t
 Second, Waiters can see the customers’ names and table numbers in order to be able to serve them. Finally, Managers can view all staff and customers 
 details, and also see the total profit of the day.
 
+
+
+**Features and Tasks**
+
+The project required the implementation of the following features and tasks:
+Implement three types of dishes: appetizers, main courses, and desserts.
+Implement three types of employees: managers, waiters, and cooks.
+Implement one or more types of customers.
+Implement two or more types of tables, such as smoking and non-smoking areas.
+Implement file handling to store and load data, including employee information, customer lists, dishes, and tables.
+Develop a GUI that supports two modes of operation for customers and employees.
+Draw a class diagram for the project.
+Handle errors and display error messages to the user.
+Apply object-oriented concepts like encapsulation, inheritance, and polymorphism.
+
 **Details:**
 
 *  	Program starts with the Login screen, where all the data in the file, which contains all users, tables and dishes, is read. The login screen checks 
