@@ -10,7 +10,7 @@ details, and also see the total profit of the day.
 
 
 
-**Features and Tasks**
+**Features and Tasks implementation Details:**
 
 The project required the implementation of the following features and tasks:
 Implement three types of dishes: appetizers, main courses, and desserts.
