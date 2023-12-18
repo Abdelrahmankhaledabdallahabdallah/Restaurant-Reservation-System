@@ -23,7 +23,7 @@ Draw a class diagram for the project.
 Handle errors and display error messages to the user.
 Apply object-oriented concepts like encapsulation, inheritance, and polymorphism.
 
-**Details:**
+**Scenarios Details:**
 
 *  	Program starts with the Login screen, where all the data in the file, which contains all users, tables and dishes, is read. The login screen checks 
     entered username and password from the users data in the file and then navigate the user according to his role.
